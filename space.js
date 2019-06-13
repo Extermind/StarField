@@ -69,7 +69,7 @@ function Star(x, y, z, glowingColor, color) {
 		c.closePath();
 	}
 
-	this.update = function() {		//w tej funkcji oblicza sie nową pozycje
+	this.update = function() {		
 		this.z = this.z - speed;
 		if(this.z < 0){
 			this.x = Math.random() * canvas.width;
