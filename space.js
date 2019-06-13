@@ -1,5 +1,5 @@
 /************
-Name: Tthrough Univers
+Name: StarField
 Author: Piotr "Extermind" Wierzchowski
 Date of last edit: 25.05.2019
 ************/
